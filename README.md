@@ -18,7 +18,7 @@
     </td>
     <td align="center" width="96">
       <a href="#zhoumoon-tech">
-        <img src="./img/AutoHotkey.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/AutoHotKey.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>AutoHotKey
     </td>
