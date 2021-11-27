@@ -19,13 +19,19 @@
     </td>
     <td align="center" width="96">
       <a href="#zhoumoon-tech">
-        <img src="./img/autohotkey.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/redis-small.png" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <a href="#zhoumoon-tech">
+        <img src="./img/autohotkey.svg" width="48" height="48" alt="AutoHotKey" />
       </a>
       <br>AutoHotKey
     </td>
     <td align="center" width="96">
       <a href="#zhoumoon-tech">
-        <img src="./img/git.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/git.svg" width="48" height="48" alt="GIT" />
       </a>
       <br>GIT
     </td>
@@ -34,12 +40,6 @@
         <img src="./img/vscode.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br> VS Code
-    </td>
-    <td align="center" width="96">
-      <a href="#zhoumoon-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
     </td>
     <td align="center" width="96"> 
       <a href="#zhoumoon-tech" >
@@ -53,14 +53,26 @@
       </a>
       <br>Kubernetes
     </td>
+    <td align="center" width="96">
+      <a href="#zhoumoon-tech" >
+        <img src="./img/vue.svg" width="48" height="48" alt="Vue" />
+      </a>
+      <br>Vue
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#zhoumoon-tech">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
     <td align="center"  width="96">
       <a href="#zhoumoon-tech">
         <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
       </a>
       <br>RHEL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#zhoumoon-tech">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
